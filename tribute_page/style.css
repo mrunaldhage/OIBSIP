@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e1e;
+  font-family: Arial, sans-serif;
+  color: #f1f1f1;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 36px;
+  color: #f4c430;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #cccccc;
+}
+
+.image {
+  width: 250px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.content {
+  text-align: justify;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.footer {
+  margin-top: 30px;
+  font-style: italic;
+  color: #aaaaaa;
+}
